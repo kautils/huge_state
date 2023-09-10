@@ -1,4 +1,4 @@
-#include "huge_state/huge_state.h"
+#include "huge_state.h"
 #include <stdint.h>
 #include <vector>
 
